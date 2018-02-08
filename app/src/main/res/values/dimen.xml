@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="size1" format="float" type="dimen">60.0</item>
+    <item name="size2" format="float" type="dimen">40.0</item>
+    <item name="size3" format="float" type="dimen">10.0</item>
+</resources>
